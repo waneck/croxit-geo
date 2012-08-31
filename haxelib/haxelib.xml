@@ -1,0 +1,13 @@
+<project name="croxit-geo-1" url="http://github.com/waneck/croxit-geo" license="BSD">
+    <user name="waneck"/>
+    <tag v="cross"/>
+    <tag v="utility"/>
+    <tag v="mobile"/>
+    <tag v="html5"/>
+    <tag v="server"/>
+    <tag v="neko"/>
+    <tag v="hxcpp"/>
+    <description>Location services plugin for Croxit</description>
+    <version name="0.0.1">First commit.</version>
+	<depends name="croxit-1"/>
+</project>
