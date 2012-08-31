@@ -8,6 +8,6 @@
     <tag v="neko"/>
     <tag v="hxcpp"/>
     <description>Location services plugin for Croxit</description>
-    <version name="0.0.1">First commit.</version>
+    <version name="0.0.1">First commit. Still largely untested. Use at own risk</version>
 	<depends name="croxit-1"/>
 </project>
