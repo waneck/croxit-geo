@@ -201,9 +201,9 @@ class Location
 		
 	}
 	
-	private static var _set_active = Loader.loadExt("croxit_geo", "cgeo_set_active", 2);
-	private static var _set_active_significant = Loader.loadExt("croxit_geo", "cgeo_set_active_significant", 1);
-	private static var _getset_precision = Loader.loadExt("croxit_geo", "cgeo_getset_precision", 1);
-	private static var _getset_distfilter = Loader.loadExt("croxit_geo", "cgeo_getset_distfilter", 1);
-	private static var _get_status = Loader.loadExt("croxit_geo", "cgeo_status", 0);
+	private static var _set_active:Dynamic = Loader.loadExt("croxit_geo", "cgeo_set_active", 2);
+	private static var _set_active_significant:Dynamic = Loader.loadExt("croxit_geo", "cgeo_set_active_significant", 1);
+	private static var _getset_precision:Dynamic = Loader.loadExt("croxit_geo", "cgeo_getset_precision", 1);
+	private static var _getset_distfilter:Dynamic = Loader.loadExt("croxit_geo", "cgeo_getset_distfilter", 1);
+	private static var _get_status:Dynamic = Loader.loadExt("croxit_geo", "cgeo_status", 0);
 }

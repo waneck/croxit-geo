@@ -346,6 +346,6 @@ DEFINE_PRIM(cgeo_status, 0);
 extern "C" 
 {
 	
-	int nekogap_geo_register_prims() { return 0; }
+	int croxit_geo_register_prims() { return 0; }
 	
 }
