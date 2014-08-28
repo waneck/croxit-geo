@@ -1,0 +1,13 @@
+{
+  "name": "croxit-geo-1",
+  "url": "http://github.com/waneck/croxit-geo",
+  "license": "BSD",
+  "tags": ["cross","utility","mobile","html5","server","neko","hxcpp"],
+  "description": "Location services plugin for Croxit",
+  "version": "0.0.2",
+  "releasenote": "Small fixes",
+  "contributors": ["waneck"],
+  "dependencies": {
+    "croxit-1": ""
+  }
+}
